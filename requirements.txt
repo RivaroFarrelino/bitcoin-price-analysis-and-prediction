@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+colorama
+networkx
+plotly
+statsmodels
+prophet
+datetime
+nbformat
