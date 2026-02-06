@@ -6,7 +6,7 @@ This project performs an end-to-end time series analysis and forecasting of Bitc
 
 ## Dataset
 
-- **Source**: `btcusd_1-min_data.csv`
+- **Source**: `btcusd_1-min_data.csv` (not included in this repo, contact me if you wanna try yourself)
 - **Granularity**: 1-minute OHLCV data
 - **Resampling**: Aggregated to daily frequency
 - **Time Range**: From the earliest timestamp in the dataset **up to 6 February 2026**
